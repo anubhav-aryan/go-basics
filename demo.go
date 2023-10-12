@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main () {
+func main() {
 
 	var i int
 	var r string
@@ -12,4 +12,8 @@ func main () {
 
 	fmt.Println(i)
 	fmt.Println(r)
+
+	j := 15
+	fmt.Println(j)
+
 }
